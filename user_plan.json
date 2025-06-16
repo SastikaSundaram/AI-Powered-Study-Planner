@@ -1,0 +1,12 @@
+{
+    "plan": [
+        {
+            "subject": "python",
+            "hours": 2.0
+        },
+        {
+            "subject": "big data",
+            "hours": 2.0
+        }
+    ]
+}
